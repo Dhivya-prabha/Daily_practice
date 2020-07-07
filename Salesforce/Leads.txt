@@ -1,0 +1,9 @@
+1. Login to https://login.salesforce.com/?locale=in
+2. Click on menu button from the right corner
+3. Click vi8.ew All and click Sales from App Launcher
+4. Click on the arrow mark of Leads and click New Leads
+5. Select Salutation and Type Last Name in New Lead window
+6. Type Company name
+7. Select Lead ststus as Working-Contacted
+8. Click on save button
+9. Click on details and verify the company and Working Status.

@@ -1,0 +1,12 @@
+1. Login to https://login.salesforce.com/?locale=in
+2. Click on menu button from the right corner
+3. Click view All and click Sales from App Launcher
+4. Click on the arrow mark of task and click New Task
+5. Select peopel in Assigned To field and select your name
+6. Choose In progress as a Status
+7. Select Subject as Call
+(Choose Contacts under Name and click New Contact * Select Salutation as Mr. under name
+ * Type Last name as Shiva, click Save and click close button)
+8. Select Priority as High
+9. Click Save button
+10. Validate the priority and status of the newly created task.
