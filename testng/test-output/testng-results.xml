@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49812" started-at="2020-07-22T15:47:25 IST" finished-at="2020-07-22T15:48:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49812" started-at="2020-07-22T15:47:25 IST" finished-at="2020-07-22T15:48:15 IST">
+      <class name="testcase.CreateLead">
+        <test-method status="PASS" signature="sendExcel()[pri:0, instance:testcase.CreateLead@1f554b06]" name="sendExcel" is-config="true" duration-ms="21" started-at="2020-07-22T15:47:25 IST" finished-at="2020-07-22T15:47:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendExcel -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.CreateLead@1f554b06]" name="login" is-config="true" duration-ms="14243" started-at="2020-07-22T15:47:27 IST" finished-at="2020-07-22T15:47:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="runCreatelead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.CreateLead@1f554b06]" name="runCreatelead" duration-ms="9241" started-at="2020-07-22T15:47:41 IST" data-provider="fetchdata" finished-at="2020-07-22T15:47:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Testleaf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Balaji]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreatelead -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcase.CreateLead@1f554b06]" name="closeBrowser" is-config="true" duration-ms="356" started-at="2020-07-22T15:47:50 IST" finished-at="2020-07-22T15:47:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.CreateLead@1f554b06]" name="login" is-config="true" duration-ms="11422" started-at="2020-07-22T15:47:50 IST" finished-at="2020-07-22T15:48:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="runCreatelead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcase.CreateLead@1f554b06]" name="runCreatelead" duration-ms="8561" started-at="2020-07-22T15:48:02 IST" data-provider="fetchdata" finished-at="2020-07-22T15:48:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestLeaf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dhivya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Prabha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreatelead -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcase.CreateLead@1f554b06]" name="closeBrowser" is-config="true" duration-ms="4268" started-at="2020-07-22T15:48:10 IST" finished-at="2020-07-22T15:48:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcase.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
